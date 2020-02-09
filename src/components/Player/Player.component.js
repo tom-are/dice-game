@@ -6,7 +6,9 @@ import Die from '../Die/Die.component';
 const Player = ({ name, roll, wins, winner }) => {
   return (
     <div className="Player">
-      <div>{name}</div>
+      <div>
+        <strong>{name}</strong>
+      </div>
       <Die
         number={roll}
         className={winner ? 'Player__die--winner' : 'Player__die'}

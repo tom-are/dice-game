@@ -7,3 +7,23 @@
 .Game__footer {
   text-align: center;
 }
+
+.Game__button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #26214b;
+  color: white;
+
+  transition: background-color 0.2s ease;
+  transition: color 0.2s ease;
+}
+
+.Game__button:hover {
+  background-color: #1cb2e7;
+  color: #26214b ;
+  /* opacity: 0.5; */
+  cursor: pointer;
+}

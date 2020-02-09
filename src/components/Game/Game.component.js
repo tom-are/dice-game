@@ -71,8 +71,13 @@ function Game() {
       </div>
 
       <div className="Game__footer">
-        <div>{result}</div>
-        <button type="button" data-testid="playRound" onClick={playRound}>
+        <h1>{result}</h1>
+        <button
+          type="button"
+          data-testid="playRound"
+          className="Game__button"
+          onClick={playRound}
+        >
           Roll dice!
         </button>
       </div>
