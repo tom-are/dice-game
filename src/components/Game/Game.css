@@ -1,0 +1,9 @@
+.Game__Players {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-around;
+}
+
+.Game__footer {
+  text-align: center;
+}
