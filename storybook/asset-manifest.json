@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dice-game/static/css/main.e30b0b60.chunk.css",
+    "main.js": "/dice-game/main.cff6071e77fcc2e1950b.bundle.js",
+    "main.css.map": "/dice-game/static/css/main.e30b0b60.chunk.css.map",
+    "main.js.map": "/dice-game/main.cff6071e77fcc2e1950b.bundle.js.map",
+    "runtime~main.js": "/dice-game/runtime~main.cff6071e77fcc2e1950b.bundle.js",
+    "runtime~main.js.map": "/dice-game/runtime~main.cff6071e77fcc2e1950b.bundle.js.map",
+    "vendors~main.js": "/dice-game/vendors~main.cff6071e77fcc2e1950b.bundle.js",
+    "vendors~main.js.map": "/dice-game/vendors~main.cff6071e77fcc2e1950b.bundle.js.map",
+    "iframe.html": "/dice-game/iframe.html",
+    "precache-manifest.4213ecbe0858d0800f4801e5d2bc6c58.js": "/dice-game/precache-manifest.4213ecbe0858d0800f4801e5d2bc6c58.js",
+    "service-worker.js": "/dice-game/service-worker.js",
+    "static/media/logo.svg": "/dice-game/static/media/logo.0d580b38.svg",
+    "vendors~main.cff6071e77fcc2e1950b.bundle.js.LICENSE.txt": "/dice-game/vendors~main.cff6071e77fcc2e1950b.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.cff6071e77fcc2e1950b.bundle.js",
+    "vendors~main.cff6071e77fcc2e1950b.bundle.js",
+    "static/css/main.e30b0b60.chunk.css",
+    "main.cff6071e77fcc2e1950b.bundle.js"
+  ]
+}

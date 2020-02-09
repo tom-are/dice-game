@@ -1,0 +1,57 @@
+.Player {
+  text-align: center;
+}
+
+.Player__die {
+  opacity: 0.4;
+}
+
+.Player__die--winner {
+  opacity: 1;
+}
+
+.Game__Players {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-around;
+}
+
+.Game__footer {
+  text-align: center;
+}
+
+.Game__button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #26214b;
+  color: white;
+
+  -webkit-transition: background-color 0.2s ease;
+
+  transition: background-color 0.2s ease;
+  -webkit-transition: color 0.2s ease;
+  transition: color 0.2s ease;
+}
+
+.Game__button:hover {
+  background-color: #1cb2e7;
+  color: #26214b ;
+  /* opacity: 0.5; */
+  cursor: pointer;
+}
+
+.App {
+  min-height: 100vh;
+  color: #26214b;
+  font-family: "Arial Rounded MT W01 Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.App__header {
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=main.e30b0b60.chunk.css.map*/
