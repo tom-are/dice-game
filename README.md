@@ -3,7 +3,7 @@
 ## NPM Scripts
 | Script (`npm run ...`) | Description                                                                  |
 |------------------------|------------------------------------------------------------------------------|
-| start                  | Starts local development and opens browser on localhost:3000                 |
+| start                  | Starts local development and opens browser on https://localhost:3000         |
 | build                  | Builds static files, ready for deployment                                    |
 | test                   | Lints files, then runs unit tests                                            |
 | test:unit              | Runs unit tests and checks coverage thresholds                               |
@@ -22,7 +22,7 @@ Your challenge is to use React to create a playable prototype whereby a player c
 
 The game should keep track of the number of wins and losses for each player and also recognise when the game is a draw.
 
-## Things to consider
+## Things to consider
 We’re hoping this game is going to go big and we’ll be expanding out from your initial codebase.
 As such, code quality is important to us. We’ll be looking for a good application structure, sensibly broken down into components.
 
