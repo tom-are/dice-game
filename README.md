@@ -1,5 +1,13 @@
 # Dice Game
 
+## Get started
+
+After pulling the repo down, run `npm install`, then `npm start`. Your browser should open up with the game running, with hot-reloading as you make code changes.
+
+To run Storybook, useful for developing components one at a time in isolation from the rest of the app, run `npm run storybook`. This will open up storybook running locally, and auto refresh with changes.
+
+Before deploying, the app should be built with `npm run build`. This will compile the static assets into the `build` folder, ready for deployment to [GitHub Pages](https://tom-are.github.io/dice-game/) or your host of choice.
+
 ## NPM Scripts
 | Script (`npm run ...`) | Description                                                                  |
 |------------------------|------------------------------------------------------------------------------|
