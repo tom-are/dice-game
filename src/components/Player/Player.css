@@ -1,0 +1,11 @@
+.Player {
+  text-align: center;
+}
+
+.Player__die {
+  opacity: 0.4;
+}
+
+.Player__die--winner {
+  opacity: 1;
+}
