@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="65.867348mm"
+   height="28.728228mm"
+   viewBox="0 0 101.79293 101.79293"
+   id="svg5348"
+   version="1.1">
+  <defs
+     id="defs5350">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="m 33.289,5291 184.35,0 0,81.447 -184.35,0 0,-81.447 z"
+         id="path18" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-135.92412,13.314094)"
+     id="g4252">
+    <g
+       id="g108"
+       transform="matrix(1.25,0,0,-1.25,205.157,51.61038)">
+      <path
+         d="M 0,0 -10.558,30.254 -29.423,-12.69 0,0 Z"
+         style="fill:#1cb2e7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path110" />
+    </g>
+    <g
+       id="g112"
+       transform="matrix(1.25,0,0,-1.25,196.71087,27.71762)">
+      <path
+         d="M 0,0 6.716,-19.131 19.847,7.941 0,0 Z"
+         style="fill:#151c48;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path114" />
+    </g>
+    <g
+       id="g116"
+       transform="matrix(1.25,0,0,-1.25,215.7295,29.76962)">
+      <path
+         d="M 0,0 14.127,0.468 4.628,9.692 0,0 Z"
+         style="fill:#1cb2e7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path118" />
+    </g>
+    <g
+       id="g120"
+       transform="matrix(1.25,0,0,-1.25,174.29262,54.02678)">
+      <path
+         d="M 0,0 -16.217,-0.289 -4.707,-10.852 0,0 Z"
+         style="fill:#151c48;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path122" />
+    </g>
+    <g
+       id="g124"
+       transform="matrix(1.25,0,0,-1.25,154.07362,54.41798)">
+      <path
+         d="M 0,0 -2.239,-10.95 7.292,-6.667 0,0 Z"
+         style="fill:#1cb2e7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path126" />
+    </g>
+    <g
+       id="g128"
+       transform="matrix(1.25,0,0,-1.25,180.8045,39.07625)">
+      <path
+         d="M 0,0 8.858,20.213 -11.006,31.261 0,0 Z"
+         style="fill:#151c48;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path130" />
+    </g>
+  </g>
+</svg>
