@@ -33,7 +33,7 @@ const Dice = ({ number, className }) => {
   return (
     <FontAwesomeIcon
       className={className}
-      data-testid={normalisedNumber}
+      data-testid={`die-${normalisedNumber}`}
       icon={icon}
       color={DEFAULT_COLOR}
       size="6x"
