@@ -18,9 +18,9 @@ const diceNumberFixtures = [
 
 test.each(diceNumberFixtures)(
   'must render correct die for input number: %d',
-  (inp, out) => {
-    const { getByTestId } = render(<Die number={inp} />);
-    const icon = getByTestId(out);
+  (inputNumber, expectedDie) => {
+    const { getByTestId } = render(<Die number={inputNumber} />);
+    const icon = getByTestId(`die-${expectedDie}`);
     expect(icon).toBeInTheDocument();
   },
 );
