@@ -40,7 +40,7 @@
     "test:lint": "eslint .",
     "test:tdd": "npm run test:unit -- --watchAll=true",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build:storybook": "build-storybook -s public -o build/storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
