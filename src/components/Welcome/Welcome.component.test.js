@@ -1,18 +1,16 @@
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { render } from '@testing-library/react';
-import App from './App';
+import Welcome from './Welcome.component';
 
 test('renders initial state correctly', () => {
-  const { getByText, getByTestId } = render(
+  const { getByText } = render(
     <Router>
-      <App />
+      <Welcome />
     </Router>,
   );
 
-  const initialGameResult = getByText(/welcome!/i);
-  const header = getByTestId('app-header');
+  const initialGameResult = getByText(/get started/i);
 
   expect(initialGameResult).toBeInTheDocument();
-  expect(header).toBeInTheDocument();
 });

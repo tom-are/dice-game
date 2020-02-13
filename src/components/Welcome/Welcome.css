@@ -1,0 +1,5 @@
+.Welcome {
+  display: grid;
+  grid-auto-flow: row;
+  text-align: center;
+}
